@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/amplitude/build/static/css/main.b343fa62.chunk.css",
-    "main.js": "/amplitude/build/static/js/main.4d44d2e9.chunk.js",
-    "main.js.map": "/amplitude/build/static/js/main.4d44d2e9.chunk.js.map",
+    "main.js": "/amplitude/build/static/js/main.8917a9c8.chunk.js",
+    "main.js.map": "/amplitude/build/static/js/main.8917a9c8.chunk.js.map",
     "runtime~main.js": "/amplitude/build/static/js/runtime~main.dc006a2d.js",
     "runtime~main.js.map": "/amplitude/build/static/js/runtime~main.dc006a2d.js.map",
     "static/css/2.0624914a.chunk.css": "/amplitude/build/static/css/2.0624914a.chunk.css",
-    "static/js/2.c4ea232c.chunk.js": "/amplitude/build/static/js/2.c4ea232c.chunk.js",
-    "static/js/2.c4ea232c.chunk.js.map": "/amplitude/build/static/js/2.c4ea232c.chunk.js.map",
+    "static/js/2.81a673ed.chunk.js": "/amplitude/build/static/js/2.81a673ed.chunk.js",
+    "static/js/2.81a673ed.chunk.js.map": "/amplitude/build/static/js/2.81a673ed.chunk.js.map",
     "index.html": "/amplitude/build/index.html",
-    "precache-manifest.71ebde81778d4b55faf5adf9ec3cc5c8.js": "/amplitude/build/precache-manifest.71ebde81778d4b55faf5adf9ec3cc5c8.js",
+    "precache-manifest.dabfcd32610ed5b45598dbed567b5552.js": "/amplitude/build/precache-manifest.dabfcd32610ed5b45598dbed567b5552.js",
     "service-worker.js": "/amplitude/build/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/amplitude/build/static/css/2.0624914a.chunk.css.map",
     "static/css/main.b343fa62.chunk.css.map": "/amplitude/build/static/css/main.b343fa62.chunk.css.map"

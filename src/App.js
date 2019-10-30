@@ -14,15 +14,18 @@ setTimeout(() => {
 }, 2000);
 
 const Amplitude = ({ children }) => {
-  const [api, setApi] = useState(null);
   const [eventCode, setEventCode] = useState(null);
   
   let debounce = null;
   let handleApi = (event) => {
     clearTimeout(debounce);
+    let api = event.target.value;
+    // setApi(api);
     debounce = setTimeout(() => {
-      setApi(api);
-      apl.init(api);
+      // prod c909c7c09a9424c0a0be2f28a2d51272
+      // dev  15bbbe2320a5467099a884129cb84e60
+      let connected = apl.init(api);
+      console.log(connected);
       apl.setUserId('5657167e0f8b2c4cbe71c0ca');
       apl.setUserProperties({'email': 'jt@jtec.at'});
       console.log('Amplitude initialised with ', api);
@@ -35,6 +38,8 @@ const Amplitude = ({ children }) => {
 
   let executeCode = (event) => {
     eval(eventCode);
+    console.log(eventCode);
+    console.log('Submitted.');
     event.preventDefault();
   }
   

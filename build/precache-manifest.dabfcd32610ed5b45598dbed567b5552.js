@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "064337374809de3bf44e1f20431b36b5",
+    "revision": "10302c5b88b7b07448749ce0ccc48fed",
     "url": "/amplitude/build/index.html"
   },
   {
-    "revision": "3d1c6ab2033100589960",
+    "revision": "35ac7fe7e0f8285f2843",
     "url": "/amplitude/build/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "583f18e2ee6b202d8068",
+    "revision": "c1101fbc6c6e71a1e5a6",
     "url": "/amplitude/build/static/css/main.b343fa62.chunk.css"
   },
   {
-    "revision": "3d1c6ab2033100589960",
-    "url": "/amplitude/build/static/js/2.c4ea232c.chunk.js"
+    "revision": "35ac7fe7e0f8285f2843",
+    "url": "/amplitude/build/static/js/2.81a673ed.chunk.js"
   },
   {
-    "revision": "583f18e2ee6b202d8068",
-    "url": "/amplitude/build/static/js/main.4d44d2e9.chunk.js"
+    "revision": "c1101fbc6c6e71a1e5a6",
+    "url": "/amplitude/build/static/js/main.8917a9c8.chunk.js"
   },
   {
     "revision": "772004251448d7419980",
