@@ -22,8 +22,6 @@ const Amplitude = ({ children }) => {
     clearTimeout(debounce);
     debounce = setTimeout(() => {
       setApi(api);
-      // prod c909c7c09a9424c0a0be2f28a2d51272
-      // dev  15bbbe2320a5467099a884129cb84e60
       apl.init(api);
       apl.setUserId('5657167e0f8b2c4cbe71c0ca');
       apl.setUserProperties({'email': 'jt@jtec.at'});
